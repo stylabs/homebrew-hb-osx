@@ -7,6 +7,6 @@ class StyFiAliase < Formula
   bottle :unneeded
 
   def install
-  	bin.install "styfi"
+  	bin.install "styfi" 
   end
 end
