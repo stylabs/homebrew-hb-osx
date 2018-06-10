@@ -1,5 +1,5 @@
 module Constants
   URL = "https://api.github.com/repos/jobinlawrance/gradle-styfi/tarball/v1.0.2"
-  SHA = "b4b8fb08e4ee5660812fae8de0ae4f30d03fb340f7be81faa12c43d9d3d9703e"
-  VERSION = ""
+  SHA = "a7f099f666c3a31239e870c21de58b37ac19e2ede15595abad59e96b61ef0bc0"
+  VERSION = "1.0.2"
 end
