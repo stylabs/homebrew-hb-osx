@@ -1,8 +1,8 @@
 class Collabbdelegate < Formula 
     desc "A command line to create adapter delegates"
-    url "https://github.com/jobinlawrance/collabb-delegate/archive/v0.0.2.tar.gz" 
-    sha256 "83d088c364a04115f2e64b9ee855d97f3f0ae84ab3687f61c2b66bedfc7ec33d"
-    version "0.0.2"
+    url "https://github.com/jobinlawrance/collabb-delegate/archive/v0.0.3.tar.gz" 
+    sha256 "b6e70087605ee62c9f24c86a50eedbf47cc2ab5eb0291ab876f3ea6c1a0dd6ea"
+    version "0.0.3"
   
     bottle :unneeded
   
